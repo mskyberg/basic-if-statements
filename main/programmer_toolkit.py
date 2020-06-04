@@ -36,3 +36,10 @@ def return_string_cost_of_box(level):
 
 if __name__ == '__main__':
     print(sign_up_for_toolkit_box())
+
+
+# test cases
+# Input         Expected                        Actual
+# Bronze        Toolkit: Bronze cost: $30.00    Toolkit: Bronze cost: $30.00
+# Mike          Toolkit: Mike cost: $0.00       Toolkit: Mike cost: $0.00
+# Free Trial    Toolkit: Free Trial cost: $0.00 Toolkit: Free Trial cost: $0.00
